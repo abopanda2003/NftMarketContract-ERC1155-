@@ -1,0 +1,61 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/common/UmblCoreDataObjects.sol": "UmblCoreDataObjects"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"@openzeppelin/contracts/utils/math/SafeMath.sol": {
+			"keccak256": "0x8666f020bd8fc9dc14f07e2ebc52b5f236ab4cdde7c77679b08cb2f94730043b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://163776cbf565c722232393aa2d62cbe8a2ffb5805986abf4906c00e1e07450a6",
+				"dweb:/ipfs/QmPZoN9T3cb6o8bGhjBPZcz7im8T8DWhpr3tjLwhJJHx9N"
+			]
+		},
+		"contracts/common/UmblCoreDataObjects.sol": {
+			"keccak256": "0x6b32da69fdcba30fea3264fba25e6ef31fdbad6131eec6ed3d7a9365a579c546",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://26c2ff8919618f827f56dcdffe6add457e9183270e3fdad21af31af61cd9e9c7",
+				"dweb:/ipfs/QmcK2AjRi3hfPTe538zsMCmrjFMoMjGxJ6U78a2BEsSr1M"
+			]
+		},
+		"contracts/common/UmblCoreEnums.sol": {
+			"keccak256": "0x2fc3b1f64eb0dca16acaa9f1f68f4f256231c03baaa8b7f28ec2153dfbd087ce",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://7aa5bcbb030a1001d60456f7ed3f8fb1f02593e436be45faba57896961e5d444",
+				"dweb:/ipfs/QmRfGTcNBRR698vWJBtaZrUy966W4JTFTAbN3jmJJep7ax"
+			]
+		}
+	},
+	"version": 1
+}
